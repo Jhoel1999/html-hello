@@ -1,0 +1,60 @@
+body{
+    font-family: 'Roboto';
+    background-color: black;
+    margin: 0;
+}
+
+
+.contenedor{
+    display: block;
+    width: 500px;
+    margin: auto;
+}
+
+.publi{
+    background-color: white;
+    margin-top: 20px;
+}
+
+.publi img {
+    width: 100%;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+}
+
+.texto{
+    display: block;
+    margin-left: 10px;
+}
+
+.texto h3, .titulo h4{
+    margin: 0%;
+    padding: 0%;
+}
+
+.derecha{
+    margin-left: auto;
+    padding-right: 20px;
+}
+
+
+.publi p{
+    margin: 0;
+    padding: 10px;
+}
+
+.icon{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+i {
+    font-size: 36px; 
+    margin-left: 10px;
+}
+
